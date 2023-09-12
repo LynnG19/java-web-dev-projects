@@ -30,4 +30,4 @@ public class BalancedBrackets {
         }
         return brackets == 0;
     }
-}
+  }
